@@ -1,0 +1,14 @@
+.add-panel {
+    display: flex;
+    justify-content: center;
+    background-color: #0dcaf0;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid;
+}
+
+.add-panel input{
+    width: 300px;
+    margin: 0 15px;
+}
